@@ -1,4 +1,10 @@
 Spectre
 =======
 
-This is some game I made a while back.
+DISCLAIMER: THE SOURCE CODE IS HORRIBLE FOR THIS.
+
+VERY VERY VERY HORRIBLE.
+
+IT WAS RUSHED, UNORGANISED, AND TERRIBLE.
+
+That is all.
